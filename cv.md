@@ -61,4 +61,4 @@ Courses:
 Also I study JavaScript on learn.javascript.ru
 
 ## English
-I studied English in courses International House for 1,5 years. Completed pre-intermediate (A2), partially Intermediate (B1)
+I studied English in courses International House for 1,5 years. Completed pre-intermediate (A2)(Certificate no: 0423/18), partially Intermediate (B1)
