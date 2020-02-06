@@ -30,7 +30,10 @@ The best adaptive page I've created (using HTML5/CSS3, SCSS, bootstrap 4, BEM fl
 ## Experience
 Coding tests on [LinkedIn](https://www.linkedin.com/in/pavel-pleshkov/)
 Achievements on [htmlacademy](https://htmlacademy.ru/profile/id334695/achievements)
-Certificates from courses Geekbrains Mail.Ru Group
+Certificates from courses Geekbrains Mail.Ru Group:
+- [HTML / CSS](https://geekbrains.ru/certificates/461144.en)
+- [HTML5 / CSS3](https://geekbrains.ru/certificates/483944.en)
+- [Javascript Level 1](https://geekbrains.ru/certificates/599427.en)
 
 Some projects from courses on my [GitHub](https://github.com/PavelPleshkov) in addition to [Taxi](https://pavelpleshkov.github.io/taxi/) like:
 - [Video&Forms](https://pavelpleshkov.github.io/productpage/) with video on the background, adaptive
