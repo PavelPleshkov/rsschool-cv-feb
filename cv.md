@@ -3,7 +3,7 @@
 # **Pavel Pleshkov**
 
 ## Contact Info
-pleshkov.p@gmial.com
+pleshkov.p@gmail.com
 
 +375291665749
 
