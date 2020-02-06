@@ -4,7 +4,9 @@
 
 ## Contact Info
 pleshkov.p@gmial.com
+
 +375291665749
+
 [LinkedIn](https://www.linkedin.com/in/pavel-pleshkov/)
 
 ## Summary
@@ -25,11 +27,14 @@ My resume on [tut.by](https://jobs.tut.by/resume/6ed3d9d1ff043e7b2e0039ed1f6f6b4
 
 ## Code examples
 Some of code examples see on my [GitHub](https://github.com/PavelPleshkov)
+
 The best adaptive page I've created (using HTML5/CSS3, SCSS, bootstrap 4, BEM flat and CSS3 animation) for the moment is [Taxi](https://pavelpleshkov.github.io/taxi/).
 
 ## Experience
 Coding tests on [LinkedIn](https://www.linkedin.com/in/pavel-pleshkov/)
+
 Achievements on [htmlacademy](https://htmlacademy.ru/profile/id334695/achievements)
+
 Certificates from courses Geekbrains Mail.Ru Group:
 - [HTML / CSS](https://geekbrains.ru/certificates/461144.en)
 - [HTML5 / CSS3](https://geekbrains.ru/certificates/483944.en)
