@@ -89,7 +89,8 @@ a {
   color: #000000;
 }
 
-.container main {
+.container .main {
+  padding: 20px;
   background-color: #f5f5f5;
 }
 
