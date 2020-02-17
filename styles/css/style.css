@@ -65,6 +65,7 @@ a {
 }
 
 .container .header {
+  padding: 20px;
   box-sizing: border-box;
   color: #333333;
   background-color: #d3d3d3;
@@ -73,17 +74,16 @@ a {
 .container .header .qrcode {
   float: left;
   display: block;
-  margin: 10px;
+  margin-right: 30px;
 }
 
 .container .header .header-title {
-  padding: 10px;
+  margin-bottom: 10px;
   font-size: 20px;
   line-height: 1.5;
 }
 
 .container .header .header-name {
-  padding: 10px;
   font-size: 35px;
   line-height: 1.5;
   color: #000000;
