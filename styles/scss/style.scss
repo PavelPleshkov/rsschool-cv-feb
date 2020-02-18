@@ -115,14 +115,17 @@ a {
 
       .skills-content-list,
       .certificates-geekbrains-list,
-      .projects-list {
+      .projects-list,
+      .education-list {
         padding-left: 35px;
       }
     }
   }
 
   footer {
-    background-color: yellow;
+    padding: 20px;
+    text-align: right;
+    background-color: #d3d3d3;
   }
 }
 
