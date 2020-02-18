@@ -94,23 +94,26 @@ a {
 
   .main {
     padding: 20px;
+    font-size: 16px;
+    line-height: 1.5;
     background-color: #f5f5f5;
 
     .data-section {
-      padding: 10px 0;
+      padding: 15px 0;
 
       .data-section-title {
         padding-bottom: 10px;
       }
 
-      .contacts-link,
-      .summary-content,
-      .skills {
-        font-size: 16px;
-        line-height: 1.5;
-      }
+      // .contact-info-content,
+      // .summary-content,
+      // .skills-content,
+      // .code-examples-content {
+      //   font-size: 16px;
+      //   line-height: 1.5;
+      // }
 
-      .skills {
+      .skills-content {
         padding-left: 35px;
       }
     }
