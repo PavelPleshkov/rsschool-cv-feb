@@ -70,6 +70,7 @@ a {
   .header {
     padding: 20px;
     box-sizing: border-box;
+    line-height: 1.5;
     color: #333333;
     background-color: #d3d3d3;
     
@@ -82,12 +83,10 @@ a {
     .header-title {
       margin-bottom: 10px;
       font-size: 20px;
-      line-height: 1.5;
     }
 
     .header-name {
       font-size: 35px;
-      line-height: 1.5;
       color: #000000;
     }
   }
