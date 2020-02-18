@@ -71,8 +71,8 @@ a {
     padding: 20px;
     box-sizing: border-box;
     line-height: 1.5;
-    color: #333333;
-    background-color: #d3d3d3;
+    color: #f8f8f8;
+    background-color: #333333;
     
     .qrcode {
       float: left;
@@ -81,13 +81,14 @@ a {
     }
 
     .header-title {
+      float: right;
       margin-bottom: 10px;
       font-size: 20px;
     }
 
     .header-name {
-      font-size: 35px;
-      color: #000000;
+      font-size: 45px;
+      color: #ffffff;
     }
   }
 
